@@ -1,0 +1,25 @@
+posicion,piloto,nacionalidad,equipo,puntos,victorias
+1,Max Verstappen,Dutch,Red Bull,437.0,9
+2,Lando Norris,British,McLaren,374.0,4
+3,Charles Leclerc,Monegasque,Ferrari,356.0,3
+4,Oscar Piastri,Australian,McLaren,292.0,2
+5,Carlos Sainz,Spanish,Ferrari,290.0,2
+6,George Russell,British,Mercedes,245.0,2
+7,Lewis Hamilton,British,Mercedes,223.0,2
+8,Sergio Perez,Mexican,Red Bull,152.0,0
+9,Fernando Alonso,Spanish,Aston Martin,70.0,0
+10,Pierre Gasly,French,Alpine,42.0,0
+11,Nico Hulkenberg,German,Haas,41.0,0
+12,Yuki Tsunoda,Japanese,RB,30.0,0
+13,Lance Stroll,Canadian,Aston Martin,24.0,0
+14,Esteban Ocon,French,Alpine,23.0,0
+15,Kevin Magnussen,Danish,Haas,16.0,0
+16,Alexander Albon,Thai,Williams,12.0,0
+17,Daniel Ricciardo,Australian,RB,12.0,0
+18,Oliver Bearman,British,Haas,7.0,0
+19,Franco Colapinto,Argentine,Williams,5.0,0
+20,Guanyu Zhou,Chinese,Sauber,4.0,0
+21,Liam Lawson,New Zealander,RB,4.0,0
+22,Valtteri Bottas,Finnish,Sauber,0.0,0
+23,Logan Sargeant,American,Williams,0.0,0
+24,Jack Doohan,Australian,Alpine,0.0,0

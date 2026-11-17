@@ -1,0 +1,194 @@
+[
+  {
+    "posicion": 1,
+    "piloto": "Max Verstappen",
+    "nacionalidad": "Dutch",
+    "equipo": "Red Bull",
+    "puntos": 437.0,
+    "victorias": 9
+  },
+  {
+    "posicion": 2,
+    "piloto": "Lando Norris",
+    "nacionalidad": "British",
+    "equipo": "McLaren",
+    "puntos": 374.0,
+    "victorias": 4
+  },
+  {
+    "posicion": 3,
+    "piloto": "Charles Leclerc",
+    "nacionalidad": "Monegasque",
+    "equipo": "Ferrari",
+    "puntos": 356.0,
+    "victorias": 3
+  },
+  {
+    "posicion": 4,
+    "piloto": "Oscar Piastri",
+    "nacionalidad": "Australian",
+    "equipo": "McLaren",
+    "puntos": 292.0,
+    "victorias": 2
+  },
+  {
+    "posicion": 5,
+    "piloto": "Carlos Sainz",
+    "nacionalidad": "Spanish",
+    "equipo": "Ferrari",
+    "puntos": 290.0,
+    "victorias": 2
+  },
+  {
+    "posicion": 6,
+    "piloto": "George Russell",
+    "nacionalidad": "British",
+    "equipo": "Mercedes",
+    "puntos": 245.0,
+    "victorias": 2
+  },
+  {
+    "posicion": 7,
+    "piloto": "Lewis Hamilton",
+    "nacionalidad": "British",
+    "equipo": "Mercedes",
+    "puntos": 223.0,
+    "victorias": 2
+  },
+  {
+    "posicion": 8,
+    "piloto": "Sergio Perez",
+    "nacionalidad": "Mexican",
+    "equipo": "Red Bull",
+    "puntos": 152.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 9,
+    "piloto": "Fernando Alonso",
+    "nacionalidad": "Spanish",
+    "equipo": "Aston Martin",
+    "puntos": 70.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 10,
+    "piloto": "Pierre Gasly",
+    "nacionalidad": "French",
+    "equipo": "Alpine",
+    "puntos": 42.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 11,
+    "piloto": "Nico Hulkenberg",
+    "nacionalidad": "German",
+    "equipo": "Haas",
+    "puntos": 41.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 12,
+    "piloto": "Yuki Tsunoda",
+    "nacionalidad": "Japanese",
+    "equipo": "RB",
+    "puntos": 30.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 13,
+    "piloto": "Lance Stroll",
+    "nacionalidad": "Canadian",
+    "equipo": "Aston Martin",
+    "puntos": 24.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 14,
+    "piloto": "Esteban Ocon",
+    "nacionalidad": "French",
+    "equipo": "Alpine",
+    "puntos": 23.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 15,
+    "piloto": "Kevin Magnussen",
+    "nacionalidad": "Danish",
+    "equipo": "Haas",
+    "puntos": 16.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 16,
+    "piloto": "Alexander Albon",
+    "nacionalidad": "Thai",
+    "equipo": "Williams",
+    "puntos": 12.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 17,
+    "piloto": "Daniel Ricciardo",
+    "nacionalidad": "Australian",
+    "equipo": "RB",
+    "puntos": 12.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 18,
+    "piloto": "Oliver Bearman",
+    "nacionalidad": "British",
+    "equipo": "Haas",
+    "puntos": 7.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 19,
+    "piloto": "Franco Colapinto",
+    "nacionalidad": "Argentine",
+    "equipo": "Williams",
+    "puntos": 5.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 20,
+    "piloto": "Guanyu Zhou",
+    "nacionalidad": "Chinese",
+    "equipo": "Sauber",
+    "puntos": 4.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 21,
+    "piloto": "Liam Lawson",
+    "nacionalidad": "New Zealander",
+    "equipo": "RB",
+    "puntos": 4.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 22,
+    "piloto": "Valtteri Bottas",
+    "nacionalidad": "Finnish",
+    "equipo": "Sauber",
+    "puntos": 0.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 23,
+    "piloto": "Logan Sargeant",
+    "nacionalidad": "American",
+    "equipo": "Williams",
+    "puntos": 0.0,
+    "victorias": 0
+  },
+  {
+    "posicion": 24,
+    "piloto": "Jack Doohan",
+    "nacionalidad": "Australian",
+    "equipo": "Alpine",
+    "puntos": 0.0,
+    "victorias": 0
+  }
+]
