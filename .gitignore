@@ -1,0 +1,11 @@
+# Variables de entorno (NUNCA subir credenciales)
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Sistema
+.DS_Store
